@@ -1,0 +1,61 @@
+
+   INFO  Horizon started successfully.  
+
+  2024-08-01 12:14:35 App\Jobs\MatchesToday .......................... RUNNING
+  2024-08-01 12:14:39 App\Jobs\MatchesToday .......................... 3s FAIL
+  2024-08-01 12:14:39 App\Jobs\MatchesToday .......................... RUNNING
+  2024-08-01 12:14:42 App\Jobs\MatchesToday .......................... 2s FAIL
+  2024-08-01 12:18:06 App\Jobs\MatchesToday .......................... RUNNING
+  2024-08-01 12:18:06 App\Jobs\MatchesToday ..................... 14.40ms FAIL
+  2024-08-01 12:18:18 App\Jobs\MatchesToday .......................... RUNNING
+  2024-08-01 12:18:18 App\Jobs\MatchesToday ..................... 11.73ms FAIL
+  2024-08-01 12:18:21 App\Jobs\MatchesToday .......................... RUNNING
+  2024-08-01 12:18:21 App\Jobs\MatchesToday ..................... 25.07ms FAIL
+  2024-08-01 12:18:25 App\Jobs\MatchesToday .......................... RUNNING
+  2024-08-01 12:18:25 App\Jobs\MatchesToday ..................... 12.97ms FAIL
+  2024-08-01 12:19:31 App\Jobs\MatchesToday .......................... RUNNING
+  2024-08-01 12:19:31 App\Jobs\MatchesToday ...................... 6.20ms FAIL
+  2024-08-01 12:20:31 App\Jobs\MatchesToday .......................... RUNNING
+  2024-08-01 12:20:31 App\Jobs\MatchesToday ..................... 12.78ms FAIL
+  2024-08-01 12:20:31 App\Jobs\MatchesToday .......................... RUNNING
+  2024-08-01 12:20:31 App\Jobs\MatchesToday ..................... 13.02ms FAIL
+  2024-08-01 12:20:31 App\Jobs\MatchesToday .......................... RUNNING
+  2024-08-01 12:20:31 App\Jobs\MatchesToday ..................... 24.95ms FAIL
+  2024-08-01 12:20:34 App\Jobs\MatchesToday .......................... RUNNING
+  2024-08-01 12:20:34 App\Jobs\MatchesToday ..................... 12.75ms FAIL
+  2024-08-01 12:20:34 App\Jobs\MatchesToday .......................... RUNNING
+  2024-08-01 12:20:34 App\Jobs\MatchesToday ..................... 12.63ms FAIL
+  2024-08-01 12:20:37 App\Jobs\MatchesToday .......................... RUNNING
+  2024-08-01 12:20:37 App\Jobs\MatchesToday ...................... 8.79ms FAIL
+  2024-08-01 12:20:37 App\Jobs\MatchesToday .......................... RUNNING
+  2024-08-01 12:20:37 App\Jobs\MatchesToday ...................... 8.26ms FAIL
+  2024-08-01 12:20:40 App\Jobs\MatchesToday .......................... RUNNING
+  2024-08-01 12:20:40 App\Jobs\MatchesToday ...................... 8.94ms FAIL
+  2024-08-01 12:20:40 App\Jobs\MatchesToday .......................... RUNNING
+  2024-08-01 12:20:40 App\Jobs\MatchesToday ...................... 8.42ms FAIL
+  2024-08-01 12:20:43 App\Jobs\MatchesToday .......................... RUNNING
+  2024-08-01 12:20:43 App\Jobs\MatchesToday ..................... 13.02ms FAIL
+
+   INFO  Horizon started successfully.  
+
+  2024-08-01 12:28:03 App\Jobs\MatchesToday .......................... RUNNING
+  2024-08-01 12:28:50 App\Jobs\MatchesToday ......................... 46s DONE
+
+   INFO  Horizon started successfully.  
+
+  2024-08-01 12:33:06 App\Jobs\MatchesToday .......................... RUNNING
+  2024-08-01 12:33:07 App\Jobs\MatchesToday .................... 563.41ms DONE
+
+   INFO  Horizon started successfully.  
+
+  2024-08-01 12:35:34 App\Jobs\MatchesToday .......................... RUNNING
+  2024-08-01 12:35:35 App\Jobs\MatchesToday .................... 591.81ms DONE
+
+   INFO  Horizon started successfully.  
+
+  2024-08-01 12:37:52 App\Jobs\MatchesToday .......................... RUNNING
+  2024-08-01 12:37:53 App\Jobs\MatchesToday .................... 489.09ms DONE
+  2024-08-01 12:44:13 App\Jobs\MatchesToday .......................... RUNNING
+  2024-08-01 12:44:14 App\Jobs\MatchesToday .......................... 1s DONE
+  2024-08-01 12:47:59 App\Jobs\MatchesToday .......................... RUNNING
+  2024-08-01 12:48:02 App\Jobs\MatchesToday .......................... 3s DONE
