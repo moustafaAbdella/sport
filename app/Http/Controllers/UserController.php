@@ -10,6 +10,9 @@ use App\Http\Requests\Admin\ChangePasswordRequest;
 use App\Models\User;
 use Auth;
 
+
+
+
 class UserController extends Controller
 {
     /**
@@ -21,7 +24,7 @@ class UserController extends Controller
     {
         $this->middleware('auth');
     }
-    
+    ////عاعخع
     /**
      * Display a listing of the resource.
      *
